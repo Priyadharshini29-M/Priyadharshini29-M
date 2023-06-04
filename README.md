@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Priyadharshini M
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning M.sc computer science
 - 💞️ I’m looking to get a job in IT fields
 - 📫 you can reach me @priyamanikandan2902@gmail.com
 
